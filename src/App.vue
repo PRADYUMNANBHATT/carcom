@@ -53,11 +53,13 @@
       <router-view />
     </main>
     <FooterBar />
+    <ChatBox />
   </div>
 </template>
 
 <script>
 import NavBar from "@/components/NavBar.vue";
+import ChatBox from "@/components/ChatBox.vue";
 import FooterBar from "@/components/FooterBar.vue";
 import axios from "axios";
 
@@ -65,6 +67,7 @@ export default {
   components: {
     NavBar,
     FooterBar,
+    ChatBox,
   },
   data() {
     return {
