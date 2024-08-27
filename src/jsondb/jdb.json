@@ -1,0 +1,183 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "bmw x5",
+      "description": "The BMW X5 has consistently held a strong position in the luxury SUV segment. Admired both for its stunning aesthetics and the engaging driving experience it offers its owners. The latest edition aims to keep things more contemporary.",
+      "slug": "bmw-x5",
+      "price": "300.00",
+      "category": 2,
+      "car_type": 2,
+      "image": "/media/images/x5-exterior-right-front-three-quarter-5.webp",
+      "trending": 1,
+      "get_absolute_url": "/bmw/bmw-x5/",
+      "get_image": "x5-exterior-right-front-three-quarter-5.webp",
+      "get_thumbnail": "x5-exterior-right-front-three-quarter-5.webp"
+    },
+    {
+      "id": 3,
+      "name": "LandCruiser",
+      "description": "The Land Cruiser has a reputation that's made it an aspirational buy of sorts. At its asking price, it also becomes a status symbol.",
+      "slug": "landcruiser",
+      "price": "2.67",
+      "category": 7,
+      "car_type": 2,
+      "image": "/media/images/land-cruiser-exterior-right-front-three-quarter-2.webp",
+      "trending": 2,
+      "get_absolute_url": "/toyota/landcruiser/",
+      "get_image": "land-cruiser-exterior-right-front-three-quarter-2.webp",
+      "get_thumbnail": "land-cruiser-exterior-right-front-three-quarter-2.webp"
+    },
+    {
+      "id": 2,
+      "name": "tata safari",
+      "description": "Tata Safari price for the base model starts at Rs. 20.17 Lakh and the top model price goes upto Rs. 35.11 Lakh (on-road Thrissur). Safari price for 29 variants is listed below.",
+      "slug": "tata-safari",
+      "price": "200.00",
+      "category": 11,
+      "car_type": 2,
+      "image": "/media/images/safari-facelift-exterior-right-front-three-quarter-39.webp",
+      "trending": 2,
+      "get_absolute_url": "/tata/tata-safari/",
+      "get_image": "safari-facelift-exterior-right-front-three-quarter-39.webp",
+      "get_thumbnail": "safari-facelift-exterior-right-front-three-quarter-39.webp"
+    }
+  ],
+
+  "category": [
+    {
+      "id": 2,
+      "name": "bmw",
+      "slug": "bmw",
+      "thumbnail": "/media/images/E0m6.gif",
+      "get_absolute_url": "/bmw/",
+      "get_thumbnail": "Logo-bmw-vector-transparent-PNG.png"
+    },
+    {
+      "id": 9,
+      "name": "maruti",
+      "slug": "maruti",
+      "thumbnail": "/media/images/logoskywalk.png",
+      "get_absolute_url": "/maruti/",
+      "get_thumbnail": "pngimg.com_-_suzuki_PNG12291.png"
+    },
+    {
+      "id": 1,
+      "name": "hyundai",
+      "slug": "hyundai",
+      "thumbnail": "/media/images/logoskywalk.png",
+      "get_absolute_url": "/hyundai/",
+      "get_thumbnail": "hyundai-logo-6.png"
+    },
+    {
+      "id": 11,
+      "name": "tata",
+      "slug": "tata",
+      "thumbnail": "/media/images/asset_20.png",
+      "get_absolute_url": "/tata/",
+      "get_thumbnail": "png-clipart-tata-motors-tata-group-company-india-tata-sons-india-blue-angle.png"
+    },
+    {
+      "id": 7,
+      "name": "toyota",
+      "slug": "toyota",
+      "thumbnail": "/media/images/logo192_Qp5dijP.png",
+      "get_absolute_url": "/toyota/",
+      "get_thumbnail": "png-transparent-toyota-black-logo-car-logos-thumbnail.png"
+    }
+  ],
+  "trending": [
+    {
+      "id": 2,
+      "name": "Popular",
+      "slug": "popular"
+    },
+    {
+      "id": 1,
+      "name": "Trending",
+      "slug": "Trending"
+    }
+  ],
+  "car_type": [
+    {
+      "id": 2,
+      "name": "New",
+      "slug": "new"
+    },
+    {
+      "id": 1,
+      "name": "Used",
+      "slug": "used"
+    }
+  ],
+  "carousel_image": [
+    {
+      "id": 7,
+      "title": "BMW 7 series",
+      "image": "/media/images/3GL_1680x756_0.jpg",
+      "slug": "bmw-sevenseries",
+      "description": "bmw",
+      "background_clr": "#e9ecef",
+      "category": 2,
+      "get_absolute_url": "/bmw/",
+      "get_image": "3GL_1680x756_0.jpg"
+    },
+    {
+      "id": 6,
+      "title": "BMW X5",
+      "image": "/media/images/6GT_1680x756_0.jpg",
+      "slug": "bmw-x5",
+      "description": "bmw",
+      "background_clr": "#e9ecef",
+      "category": 2,
+      "get_absolute_url": "/bmw/",
+      "get_image": "6GT_1680x756_0.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Nexon",
+      "image": "/media/images/nexon.jpg",
+      "slug": "nexon",
+      "description": "",
+      "background_clr": "#e9ecef",
+      "category": 11,
+      "get_absolute_url": "/tata/",
+      "get_image": "nexon.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Tata Safari",
+      "image": "/media/images/safari2.jpg",
+      "slug": "tata-safari",
+      "description": "",
+      "background_clr": "#e9ecef",
+      "category": 11,
+      "get_absolute_url": "/tata/",
+      "get_image": "safari2.jpg"
+    }
+  ],
+  "carousel_image_mobile": [
+    {
+      "id": 7,
+      "title": "BMW 7 series",
+      "image": "/media/images/3GL_1680x756_0.jpg",
+      "slug": "bmw-sevenseries",
+      "description": "bmw",
+      "background_clr": "#e9ecef",
+      "category": 2,
+      "get_absolute_url": "/bmw/",
+      "get_image": "mobile-nexon.jpg"
+    },
+    {
+      "id": 6,
+      "title": "BMW X5",
+      "image": "/media/images/6GT_1680x756_0.jpg",
+      "slug": "bmw-x5",
+      "description": "bmw",
+      "background_clr": "#e9ecef",
+      "category": 2,
+      "get_absolute_url": "/bmw/",
+      "get_image": "safari-mobile.jpg"
+    }
+  ]
+}
